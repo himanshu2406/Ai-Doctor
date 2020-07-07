@@ -35,6 +35,13 @@ Now run the code and see the prediction with accuracy after scrolling down !
 CODE:-
 https://pastebin.com/srVfAYLD
 
+Acknowledgements
+
+Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 ## Discord - Firelogger#7717
 ### Reddit - https://www.reddit.com/r/discordapp/comments/hmasi2/i_made_a_discord_bot_that_detects_diseases_using/

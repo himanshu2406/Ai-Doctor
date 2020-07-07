@@ -37,4 +37,4 @@ https://pastebin.com/srVfAYLD
 
 
 ## Discord - Firelogger#7717
-## Reddit - https://www.reddit.com/r/discordapp/comments/hmasi2/i_made_a_discord_bot_that_detects_diseases_using/
+### Reddit - https://www.reddit.com/r/discordapp/comments/hmasi2/i_made_a_discord_bot_that_detects_diseases_using/

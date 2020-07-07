@@ -35,7 +35,7 @@ Now run the code and see the prediction with accuracy after scrolling down !
 CODE:-
 https://pastebin.com/srVfAYLD
 
-Acknowledgements
+### Acknowledgements
 
 Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
 

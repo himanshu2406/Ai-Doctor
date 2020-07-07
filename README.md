@@ -1,4 +1,6 @@
 # Ai-Doctor
+
+Open source discord bot for ai pneumonia detection.
 Detects diseases within seconds with just an xray scan
 
 # IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
@@ -35,4 +37,4 @@ https://pastebin.com/srVfAYLD
 
 
 ## Discord - Firelogger#7717
-
+## Reddit - https://www.reddit.com/r/discordapp/comments/hmasi2/i_made_a_discord_bot_that_detects_diseases_using/

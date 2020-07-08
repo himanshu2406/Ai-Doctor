@@ -86,12 +86,20 @@ async def shutdown(ctx):
 	await client.logout()
 	return
 
+@client.command(pass_context=True)
+@commands.has_role('admin')
+async def botservers(ctx):
+    await ctx.send("I'm in " + str(len(client.guilds)) + " servers")
+    for guild in client.guilds:
+        await ctx.send(guild.name + ' : ' + str(guild.id))
+    return
+
 @client.event
 async def on_ready():
 	print(f'{client.user.name} has connected to Discord!')
 
 
-@client.command(pass_context=True, help = "!c url_to_the_scan")
+@client.command(pass_context=True, help = "!d url_to_the_scan")
 #@commands.has_role('botuser')
 async def d(ctx, args):
 	global pred

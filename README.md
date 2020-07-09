@@ -6,6 +6,8 @@ Detects diseases within seconds with just an xray scan
 # IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
 
 Discord server with ready to use Ai Doctor : https://discord.gg/ZUGVPSS
+Now you can add the bot in your own server ! - 
+https://discord.com/api/oauth2/authorize?client_id=729677023877791805&permissions=645121&scope=bot
 
 
 Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .

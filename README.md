@@ -3,7 +3,7 @@
 Open source discord bot for ai pneumonia detection.
 Detects diseases within seconds with just an xray scan
 
-# IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
+#### IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
 
 Discord server with ready to use Ai Doctor : https://discord.gg/ZUGVPSS
 

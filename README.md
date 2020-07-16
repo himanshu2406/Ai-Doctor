@@ -13,7 +13,7 @@
 | Open source discord bot for Ai pneumonia detection, Detects diseases within seconds with just an xray scan <br><br> We are constantly adding new features to the discord bot, this project is maintained by Anondoser but it has been made Open Source so that everyone can contribute ! | [![Discord server](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F2x%2Fdiscord-logo.png&f=1&nofb=1)](https://discord.gg/ZUGVPSS) | [![BuyMeACoffee](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg)](https://www.buymeacoffee.com/anondoser/shop) |
 
 **Join** our Discord bot now ! [here](https://discord.gg/ZUGVPSS)
-
+**Blog** is out , Read more [here](https://anondoser.xyz/2020-07-07-How-i-made-an-Ai-Doctor/) !
 #### IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
 
 # Features:

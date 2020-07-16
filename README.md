@@ -19,11 +19,11 @@
 # Features:
 
 1. Now you can add the bot in your own server ! - [here](https://discord.com/api/oauth2/authorize?client_id=729677023877791805&permissions=645121&scope=bot)
-2.Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .
--Trained on a dataset of 2.29 Gb (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
--Model Used - CNN (Convolutional neural network)
--Accuracy - 98% + ! (steps =500, epochs = 10, val_steps = 125 )
-3. trained model size = 9 Mb so you don't have to worry about downloading the entire 2.29Gb to test the model
+2. Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .
+3. Trained on a dataset of 2.29 Gb (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+4. Model Used - CNN (Convolutional neural network)
+5. Accuracy - 98% + ! (steps =500, epochs = 10, val_steps = 125 )
+6. trained model size = 9 Mb so you don't have to worry about downloading the entire 2.29Gb to test the model
 
 
 # HOW TO PREDICT ON NEW IMAGES :

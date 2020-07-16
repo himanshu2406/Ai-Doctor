@@ -1,7 +1,17 @@
 # Ai-Doctor
 
-Open source discord bot for ai pneumonia detection.
-Detects diseases within seconds with just an xray scan
+![GitHub contributors](https://img.shields.io/github/contributors-anon/himanshu2406/Ai-Doctor?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/himanshu2406/Ai-Doctor?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/himanshu2406/Ai-Doctor?style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/himanshu2406/Ai-Doctor?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/himanshu2406/Ai-Doctor?style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/himanshu2406/Ai-Doctor?style=for-the-badge)
+![Github Total lines](https://tokei.rs/b1/github/himanshu2406/Ai-Doctor)
+
+| Information | Discord | Donate |
+|:------------|:---------|:-------|
+| Open source discord bot for Ai pneumonia detection, Detects diseases within seconds with just an xray scan <br><br> We are constantly adding new features to the discord bot, this project is maintained by Anondoser but it has been made Open Source so that everyone can contribute ! | [![Discord server](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F2x%2Fdiscord-logo.png&f=1&nofb=1)](https://discord.gg/ZUGVPSS) | [![BuyMeACoffee](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg)](https://www.buymeacoffee.com/anondoser/shop) |
+
 
 #### IMPORTANT : This is a test software not meant for real life applications , it's always recommended to consult a real doctor !
 
